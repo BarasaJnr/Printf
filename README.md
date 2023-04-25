@@ -272,7 +272,7 @@ All work contained in this project was completed as part of the curriculum for A
 
 <p align="center">
   <img
-   src="https://www.alxafrica.com/wp-content/uploads/2023/01/header-logo.png"
+   src="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
        alt="ALX Africa Logo"
   >
 </p>
